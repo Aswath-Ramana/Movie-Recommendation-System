@@ -1,5 +1,9 @@
 # Movie-Recommendation-System
 
+Movie recommendation systems usually predict what movies a user will like based on the attributes present in previously liked movies. We built a recommendation engine for this system. A lot of factors can be considered while designing a movie recommendation system like the genre of the movie, actors present in it, or even the director of the movie. The engine recommends a movie based on all content-based attributes.
+
+We have fitted the engine into a web application that can be used by any user. It shows some movies from our data-set. After selecting a movie, it recommends some similar moves from the data-set.
+
 # Software development life cycle (SDLC)
     •	Movie Data-set & data pre-processing
     •	Selecting features of the dataset
