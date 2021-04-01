@@ -28,4 +28,4 @@ The recommendation engine implemented in this repository aims to providing movie
 
 -python manage.py shell
 
--python manage runserver
+-python manage.py runserver
